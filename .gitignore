@@ -1,0 +1,8 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test & output
+cert/
+lockman-realy.json
